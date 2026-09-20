@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 950" width="1400" height="950" font-family="Georgia, serif">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0.5" y2="1"><stop offset="0" stop-color="#171a20"/><stop offset="1" stop-color="#0b0c0e"/></linearGradient>
+<linearGradient id="or" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e6c766"/><stop offset="1" stop-color="#a9822a"/></linearGradient>
+</defs>
+<rect width="1400" height="950" fill="url(#bg)"/>
+<circle cx="1120" cy="200" r="300" fill="#c9a227" opacity="0.07"/>
+<g opacity="0.85">
+  <rect x="520" y="430" width="90" height="300" fill="url(#or)" opacity=".5"/>
+  <rect x="625" y="360" width="80" height="370" fill="url(#or)" opacity=".7"/>
+  <rect x="720" y="300" width="100" height="430" fill="url(#or)"/>
+  <path d="M720 300 L770 255 L820 300 Z" fill="#e6c766"/>
+</g>
+<rect x="400" y="730" width="600" height="2" fill="#c9a227" opacity=".5"/>
+<text x="700" y="800" text-anchor="middle" font-size="34" letter-spacing="10" fill="#e6c766">IWANE</text>
+<text x="700" y="836" text-anchor="middle" font-size="16" letter-spacing="6" fill="#8b8578" font-family="Helvetica, Arial, sans-serif">PROMOTION IMMOBILIÈRE</text>
+</svg>
